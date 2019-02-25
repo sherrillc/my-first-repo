@@ -1,30 +1,25 @@
-# This is a large heading
+# Sherrill C
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *1* by 
+- *2* by 
+- *3* by
 
-```
-This is
-a block
-of code
-```
+### Dreams
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1.
+2. 
+3. 
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is...
